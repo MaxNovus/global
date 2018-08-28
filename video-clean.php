@@ -14,7 +14,7 @@ $id=$row['id'];
 insert_video_comments();
 insert_video_comments_reply();
 
-// VIDEOS
+// VIDEOS =1, PODCAST =2
 $type=1;
 
 // Code End...
