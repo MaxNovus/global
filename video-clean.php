@@ -10,6 +10,7 @@ $vres=$db->rq($vquery);
 $row=$db->afetch($vres);
 $id=$row['id'];
 
+// Comments & Reply
 insert_video_comments();
 insert_video_comments_reply();
 
