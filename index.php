@@ -7,5 +7,5 @@
  */
 
 echo "Hello...";
-
+echo "Sent to Git";
 ?>
